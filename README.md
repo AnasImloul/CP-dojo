@@ -33,7 +33,6 @@ CP-Dojo is a repository for competitive programming problems and solutions. It i
             <td>Dynamic Programming</td>
         </tr>
         <tr>
-            <td>Linked List</td>
             <td>Recursion</td>
             <td>Union Find</td>
             <td>Graph</td>
@@ -69,7 +68,7 @@ CP-Dojo is a repository for competitive programming problems and solutions. It i
             <td>Codeforces</td>
             <td>Codechef</td>
             <td>LeetCode</td>
-            <td>Other</td>
+            <td>CSES</td>
         </table>
     </ul>
     </li>
@@ -150,7 +149,6 @@ CP-Dojo is a repository for competitive programming problems and solutions. It i
             <li>Solve the problem.</li>
             <li>if you want to check your solution, open the solution file in the same folder.</li>
         </ol>
-    </li>
     <li>
         <h3> Finding a Data Structure implementation </h3>
         <ol>
@@ -159,7 +157,6 @@ CP-Dojo is a repository for competitive programming problems and solutions. It i
             <li>Find the data structure you are looking for (e.g, `Segment Tree`).</li>
             <li>Open the implementation file in the same folder.</li>
         </ol>
-    <\li>
     <li>
         <h3> Finding a problem </h3>
         <ol>
